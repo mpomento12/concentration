@@ -10,6 +10,6 @@
 
  If you would like to reset, please refresh the page.   
 
- The game is over when sucessfully matched all 12 cards.  
+ The game is over when you've sucessfully matched all 12 cards.  
 
  Have Fun!!!
