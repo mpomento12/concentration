@@ -1,1 +1,13 @@
-# concentration
+ # Concentration
+
+## **Desccription**
+
+ Concentration is a game where the user matches a set of cards.
+
+ ## **Instructions**
+
+ Click on two boxes to see if they match. If they do that's amazing! If not, the pictures will flip back over and try to find the matching pair.  
+
+ The game is over when sucessfully matched all 12 cards.  
+
+ Have Fun!!!
