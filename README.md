@@ -9,4 +9,9 @@ Click on two boxes to see if they match. If they do that's amazing! If not, the 
 
 The game is over when you've sucessfully matched all 12 cards.
 
-https://mpomento12.github.io/concentration/
+  https://mpomento12.github.io/concentration/
+  
+  <h2>Technology Used</h2>
+  <br>HTML</br>
+  <br>CSS</br>
+  <br>Javascript</br>
